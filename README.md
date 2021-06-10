@@ -1,3 +1,5 @@
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+
 ## - Hi, I'm LauraGrenier93.
 
  I'm interested in everything related to making a web page.
