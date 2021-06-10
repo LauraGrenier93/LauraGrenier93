@@ -18,4 +18,4 @@ by phone: 06.27.92.20.89
 
 ## Technologie Web
 
-![image](https://user-images.githubusercontent.com/68386529/121557344-f85e0500-ca14-11eb-84b7-c8b96b341488.png)
+![image](https://user-images.githubusercontent.com/68386529/121559460-dcf3f980-ca16-11eb-89f2-212a52f9c385.png)
