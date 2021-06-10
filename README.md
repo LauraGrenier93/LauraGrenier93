@@ -1,4 +1,4 @@
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/image/kanban.jpg)
+![Cover](https://github.com/LauraGrenier93/LauraGrenier93/blob/main/image/kanban.jpg)
 
 ## - Hi, I'm LauraGrenier93.
 
