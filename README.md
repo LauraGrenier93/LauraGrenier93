@@ -1,16 +1,19 @@
-### Hi there 👋
+## - Hi, I'm LauraGrenier93.
 
-<!--
-**LauraGrenier93/LauraGrenier93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm interested in everything related to making a web page.
+ 
+- 🌱 I'm currently improving my React skills by improving the functionality of the apotheosis project made with O'clock. 
 
-Here are some ideas to get you started:
+- 💬 I'm thinking of continuing my learning by creating a portfolio in vue.js/php
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+
+on linkedin: https://www.linkedin.com/in/laura-grenier/
+
+by mail: lauragrenier01@gmail.com or myria@hotmail.fr
+
+by phone: 06.27.92.20.89
+
+## Technologie Web
+
+![image](https://user-images.githubusercontent.com/68386529/121557344-f85e0500-ca14-11eb-84b7-c8b96b341488.png)
