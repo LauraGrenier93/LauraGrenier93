@@ -4,7 +4,7 @@
  
 - 🌱 I'm currently improving my React skills by improving the functionality of the apotheosis project made with O'clock. 
 
-- 💬 I'm thinking of continuing my learning by creating a portfolio in vue.js/php
+- 💬 I'm thinking of continuing my learning by creating a portfolio in HTML/CSS/jQuery/WordPress
 
 - 📫 How to reach me:
 
@@ -16,5 +16,4 @@ by phone: 06.27.92.20.89
 
 ## Technologie Web
 
-![image](https://user-images.githubusercontent.com/68386529/121559460-dcf3f980-ca16-11eb-89f2-212a52f9c385.png)
-![Cover](https://github.com/LauraGrenier93/LauraGrenier93/blob/main/image/kanban.jpg)
+![Cover](https://github.com/LauraGrenier93/LauraGrenier93/blob/main/images/stack.PNG)
