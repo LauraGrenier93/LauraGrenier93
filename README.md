@@ -4,7 +4,7 @@
  
 - 🌱 I'm currently improving my React skills by improving the functionality of the apotheosis project made with O'clock. 
 
-- 💬 I'm thinking of continuing my learning by creating a portfolio in HTML/CSS/jQuery/php
+- 💬 I'm thinking of continuing my learning by creating a portfolio in Vue.js/JQuery/PhP
 
 - 📫 How to reach me:
 
