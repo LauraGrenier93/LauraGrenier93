@@ -4,6 +4,7 @@ Hello, my name is Laura GRENIER.
 I'm interested in everything related to making a web page.
 
 🌱 I am currently improving my skills by self-training a new language(PHP).
+
 💬 I am thinking of continuing my apprenticeship by doing a 2 years work-study 2021-2023 with Doranco school. I will have the opportunity to learn JAVA, C#, C++, .NET...
 
 📫 How to reach me:
