@@ -1,19 +1,18 @@
 # - Hi, I'm LauraGrenier93.
 
- I'm interested in everything related to making a web page.
- 
-- 🌱 I'm currently improving my React skills by improving the functionality of the apotheosis project made with O'clock. 
+Hello, my name is Laura GRENIER.
+I'm interested in everything related to making a web page.
 
-- 💬 I'm thinking of continuing my learning by creating a portfolio in Vue.js/JQuery/PHP
+🌱 I am currently improving my skills by self-training a new language(PHP).
+💬 I am thinking of continuing my apprenticeship by doing a 2 years work-study 2021-2023 with Doranco school. I will have the opportunity to learn JAVA, C#, C++, .NET...
 
-- 📫 How to reach me:
+📫 How to reach me:
 
-on linkedin: https://www.linkedin.com/in/laura-grenier/
+On Linkedin: https://www.linkedin.com/in/laura-grenier/
 
-by mail: lauragrenier01@gmail.com or myria@hotmail.fr
+By mail: lauragrenier01@gmail.com or myria@hotmail.fr
 
-by phone: 06.27.92.20.89
+By phone : 06.27.92.20.89
 
 ## Technologie Web
-
-![Cover](https://github.com/LauraGrenier93/LauraGrenier93/blob/main/images/stack.PNG)
+![Technogie](https://user-images.githubusercontent.com/68386529/131349136-ba1b14f2-cd62-4bf5-9d14-00f6fa57b5bc.jpg)
