@@ -1,4 +1,6 @@
-# - Bonjour, je suis Laura GRENIER, passionnée par l'architecture et les diverses approches pour implémenter des fonctionnalités sur des sites web.
+# - Bonjour, je suis Laura GRENIER, 
+
+Je suis passionnée par l'architecture et les diverses approches pour implémenter des fonctionnalités sur des sites web.
 
 Avec une expérience de 2 ans en alternance, j'ai eu l'opportunité d'explorer les langages tels que JAVA, C# et .Net, tout en obtenant mon titre professionnel de Concepteur Développeur d'Application.
 
