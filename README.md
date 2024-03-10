@@ -2,11 +2,11 @@
 
 Je suis passionnée par l'architecture et les différentes approches pour implémenter des fonctionnalités sur des sites web.
 
-Avec une expérience de 2 ans en alternance, j'ai eu l'opportunité d'explorer les langages tels que JAVA, C# et .Net, tout en obtenant mon titre professionnel de Concepteur Développeur d'Application.
+Suite à des formations et 2 ans et 4 mois d'expérience en développement full-stack, je me suis perfectionné en utilisant la méthode Agile en JavaScript, PHP, Next.js, React.js, Redux, PostgreSQL, MySQL, MongoDB, Git, GitHub, GitLab, VSCode, Jira. 
 
-Mon passage de 2 ans et 4 mois au journal Le Point m'a permis de perfectionner mes compétences en PHP et JavaScript Vanilla.
+Mon objectif est de créer des expériences en ligne conviviales et performantes pour les utilisateurs.
 
-🌱 Prochainement, je renforcerai mes compétences en découvrant Next JS associé à React.
+🌱 Prochainement, je renforcerai mes compétences en m'autoformant sur TypeScript et Vue.js
 
 📫 Comment me joindre :
 
